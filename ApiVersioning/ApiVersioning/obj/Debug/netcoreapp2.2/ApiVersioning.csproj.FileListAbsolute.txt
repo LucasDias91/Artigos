@@ -1,0 +1,15 @@
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.deps.json
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.runtimeconfig.json
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.runtimeconfig.dev.json
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.dll
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.pdb
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\bin\Debug\netcoreapp2.2\ApiVersioning.xml
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.csproj.CoreCompileInputs.cache
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorAssemblyInfo.cache
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorAssemblyInfo.cs
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.AssemblyInfoInputs.cache
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.AssemblyInfo.cs
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.RazorTargetAssemblyInfo.cache
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.dll
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.pdb
+C:\Users\josue.agnese\Desktop\ApiVersioning\ApiVersioning\obj\Debug\netcoreapp2.2\ApiVersioning.csprojAssemblyReference.cache
